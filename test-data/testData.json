@@ -1,0 +1,66 @@
+{
+    "registration":{
+        "validAcctSetup":{
+            "name": "John",
+            "email": "john.smith5@gmail.com"
+        },
+
+        "invalidAccSetup":{
+            "name": "Katy",
+            "email": "john.smith5@gmail.com"
+        },
+
+        "userDetails":{
+            "pwd": "johnpwd123",
+            "fName": "John",
+            "lName": "Smith",
+            "address": "123 Main Street Springfield US",
+            "country": "United States",
+            "state": "California",
+            "city": "Los Angeles",
+            "zip": "90017",
+            "mobile": "213 555-0123"
+        }
+    },
+
+    "login":{
+        "validLogin": {
+            "email": "john.smith5@gmail.com",
+            "pwd": "johnpwd123"
+        },
+
+        "invalidLogin":{
+            "email": "john.smith5@gmail.com",
+            "pwd": "Test@1234"
+        }
+    },
+
+    "validSearch": "Dress",
+    "invalidSearch": "noresults",
+    "quantity": "2",
+
+    "paymentDetails":{
+        "validDetails":{
+            "name": "John",
+            "cardNb": "4111111111111111",
+            "cvc":"123",
+            "expiryMonth": "12",
+            "expiryYear": "26"
+        },
+
+        "invalidDetails":{
+            "name": "John",
+            "cardNb": "0000000000000000",
+            "cvc":"000",
+            "expiryMonth": "01",
+            "expiryYear": "01"
+        }
+    },
+
+    "contactMsg": {
+        "name": "John",
+        "email": "john.smith5@gmail.com",
+        "subject": "Query",
+        "msg": "Hello"
+    }
+}
