@@ -80,7 +80,7 @@ See [`docs/test-plan.md`](docs/test-plan.md)
 | Checkout | 2 | High / Medium |
 | Contact | 2 | Medium |
 
-See [`test-cases/`](test-cases/AE-Test-Cases.csv)
+See [`test-cases/AE-Test-Cases.csv)`](test-cases/AE-Test-Cases.csv)
 
 ---
 
