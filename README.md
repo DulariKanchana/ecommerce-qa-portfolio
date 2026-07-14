@@ -1,4 +1,4 @@
-# AutomationExercise — QA Portfolio Project
+# AutomationExercise - QA Portfolio Project
 
 End-to-end QA project on [AutomationExercise.com](https://automationexercise.com) covering 
 the complete testing lifecycle: exploratory testing, test planning, manual test execution, 
@@ -137,11 +137,18 @@ npx playwright show-report
 
 | | |
 |---|---|
-| ![Test Cases](screenshots/jira-test-cases-list.png) | ![Execution](screenshots/xray-execution-summary.png) |
+| ![Test Cases](screenshots/jira-test-cases.png) | ![Execution](screenshots/xray-execution-summary.png) |
 | Jira + Xray Test Cases | Execution Summary (17/18 Pass) |
 | ![Bug 19](screenshots/bug-AUT-19.png) | ![Bug 22](screenshots/bug-AUT-22.png) |
 | Bug AUT-19 | Bug AUT-22 |
 
 ---
+### Playwright HTML Report
 
+| | |
+|---|---|
+| ![Report 1](screenshots/playwright-html-report-part1.png) | ![Report 2](screenshots/playwright-html-report-part2.png) |
+| Playwright HTML Report - Overview | Playwright HTML Report - Overview|
+
+---
 **Dulari Kanchana** — Computer Science Undergraduate | Aspiring QA Engineer  
